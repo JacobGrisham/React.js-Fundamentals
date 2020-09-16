@@ -2,6 +2,8 @@
 ### Coding challenge from the Udemy Course [the Complete 2020 Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 I wrote the code in App.jsx and InputArea.jsx. The other files were provided by the instructor.
 
+![Demo](public/demo.gif)
+
 ## 💡Lessons Learned
 - React component tree management
 - ES6 Spread Operator
