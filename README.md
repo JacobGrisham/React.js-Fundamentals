@@ -5,8 +5,13 @@ I wrote the code in App.jsx and InputArea.jsx. The other files were provided by 
 ![Demo](public/demo.gif)
 
 ## 💡Lessons Learned
-- React component tree management
 - ES6 Spread Operator
+- ES6 import and export modules
+- ES6 arrow functions
+- Intro to JSX
+- Intro to Babel
+- React props
+- Changing state with Hooks (`useState`, `setState`)
 
 ## 🚀 Getting Started
 - [Live on Code Sandbox](https://codesandbox.io/s/managing-a-component-tree-practice-forked-9kg92)
